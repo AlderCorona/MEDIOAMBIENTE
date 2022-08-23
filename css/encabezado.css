@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border: black 2px solid;
+    background:url(PORTADA1.jpg)no-repeat;
+    background-position: right;
+}
